@@ -1,0 +1,84 @@
+
+body{
+  margin:0;
+  padding:0
+}
+img,video{
+  margin:0;
+  padding:0
+}
+#modelY{
+  width:1000px;
+}
+.First{
+  text-align:center;
+  color:white;
+  font-family: Helvetica;
+  position: absolute;
+    top:50px;left:40%
+}
+.Second{
+  text-align:center;
+  color:white;
+  font-family: Helvetica;
+  position: absolute;
+  top:570px;left:40%;
+  filter:drop-shadow(0px 0px 10px black)
+}
+.third{
+  text-align:center;
+  color:white;
+  font-family: Helvetica;
+  position: absolute;
+  top:1300px;left:40%
+}
+.fourth{
+  text-align:center;
+  color:white;
+  font-family: Helvetica;
+  position: absolute;
+  top:1900px;left:40%
+}
+.fifth{
+  text-align:center;
+  color:white;
+  font-family: Helvetica;
+  position: absolute;
+  top:2900px;left:40%
+}
+
+.sixth{
+  text-align:center;
+  color:white;
+  font-family: Helvetica;
+  position: absolute;
+  top:3130px;left:38%
+}
+.seventh{
+  text-align:center;
+  color:white;
+  font-family: Helvetica;
+  position: absolute;
+  top:3600px;left:40%
+}
+.eight{
+  text-align:center;
+  color:white;
+  font-family: Helvetica;
+  position: absolute;
+  top:4200px;left:40%;
+  filter:drop-shadow(0px 0px 10px black)
+}
+.ninth{
+  text-align:center;
+  color:white;
+  font-family: Helvetica;
+  position: absolute;
+  top:4800px;left:40%
+}
+.logo{
+  position: absolute;
+  top:0px;
+  left:20px
+}
+@media     
